@@ -11,6 +11,7 @@
 				if (split[i] != "") {
 					count += 1;
 				}
+                
 			}
 			// Display it as output
 			var show = document.getElementById("show");
